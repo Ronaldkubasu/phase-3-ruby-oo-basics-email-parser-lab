@@ -1,6 +1,6 @@
 # Bonus: Email Parser Lab
 
-## Learning Goals
+## Learning Goalsc
 
 - Build a class that uses an initialize method
 - Practice using an attribute accessor macro to make an attribute available to a
